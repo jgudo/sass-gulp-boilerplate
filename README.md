@@ -22,4 +22,4 @@ This will watch your sass files, compile them and run your dev server at http://
 
 ```sh
 $ npm start
-```# Sass-Gulp-Starter-Pack
+```
